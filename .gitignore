@@ -1,3 +1,6 @@
 vgg16.pyc
 vgg16bn.pyc
 utils.pyc
+data/dogscats
+data/redux
+data/dogscats.zip
